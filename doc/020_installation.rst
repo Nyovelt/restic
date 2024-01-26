@@ -37,6 +37,16 @@ package from the official community repos, e.g. using ``apk``:
 
     $ apk add restic
 
+AOSC OS
+============
+
+On `AOSC OS <https://aosc.io/>`__ you can install the ``restic``
+package from the official community repos, e.g. using ``oma``:
+
+.. code-block:: console
+
+    $ oma install restic
+
 Arch Linux
 ==========
 
